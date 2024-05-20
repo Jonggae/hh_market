@@ -1,0 +1,8 @@
+datasource:
+  url: jdbc:mysql://springboot-database.cz6ocyggys07.ap-northeast-2.rds.amazonaws.com:3306/shop
+  username : admin
+  password : whdro9563**
+  spring:
+    jpa:
+      hibernate:
+        ddl-auto:update
